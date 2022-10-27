@@ -4,7 +4,8 @@
   "description": "Aprendiendo Javascript Asincronico con Platzi Fake Store API",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/index.js"
+    "callback": "node src/index.js",
+    "promises": "node src/promises.js"
   },
   "repository": {
     "type": "git",
