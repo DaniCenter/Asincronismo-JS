@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/DaniCenter/Asincronismo-JS#readme",
   "devDependencies": {
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
   }
 }
