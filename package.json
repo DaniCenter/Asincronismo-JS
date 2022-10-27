@@ -5,8 +5,10 @@
   "main": "index.js",
   "scripts": {
     "callback": "node src/index.js",
-    "promises": "node src/promises.js"
+    "promises": "node src/promises.js",
+    "fetch": "node src/fetch.js"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DaniCenter/Asincronismo-JS.git"
