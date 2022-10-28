@@ -6,7 +6,8 @@
   "scripts": {
     "callback": "node src/index.js",
     "promises": "node src/promises.js",
-    "fetch": "node src/fetch.js"
+    "fetch": "node src/fetch.js",
+    "async": "node src/async-await.js"
   },
   "type": "module",
   "repository": {
